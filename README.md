@@ -12,7 +12,7 @@ Launch apps on Termux
 ##### Dependences
     pkg install git
 
-1. Install Termux Launch on [realease](https://github.com/GlitchYou/termux-launch/releases/tag/1.2)
+1. Install Termux Launch on [release](https://github.com/GlitchYou/termux-launch/releases/tag/1.2)
 2. Open the app and it will show a notification
 3. Click install to proceed with the installation
 
